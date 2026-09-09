@@ -4,7 +4,7 @@
 prazer, sou o Murillo. um estudante da 2° série, em ensino integral; faço um curso integrado com o SENAI de Jogos Digitais.
 
 ## Projetos e Aprendizagem
-para as atividades escolares, utilizo a webstack comum e para projetos pessoais utilizo python. 
+para as atividades escolares utilizo a webstack comum, para projetos pessoais utilizo python. 
 
 ## Projetos Atuais
 Bot em 
