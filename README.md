@@ -1,7 +1,7 @@
 ![banner](banner.jpg)
 
 ## Portfólio
-considere dar uma olhada em meu ![portfolio](https://murillohq.github.io/portfolio/)
+considere dar uma olhada em meu [portfolio](https://murillohq.github.io/portfolio/)
 
 
 ## Sobre Mim
