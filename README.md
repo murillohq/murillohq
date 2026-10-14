@@ -1,4 +1,4 @@
-![banner](banner.jpg)
+![banner](banner.jpeg)
 
 ## Portfólio
 considere dar uma olhada em meu [portfolio](https://murillohq.github.io/portfolio/)
