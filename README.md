@@ -19,6 +19,6 @@ prazer, sou o Murillo. um estudante da 2° série, em ensino integral; faço um 
 
 # Github Stats
 
-![GitHub Stats](https://github-readme-murilloyoung.vercel.app/api?username=murillohq&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-murilloyoung.vercel.app/api/top-langs/?username=murillohq&layout=compact&theme=dracula)
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=murillohq&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murillohq&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murillohq&layout=compact&theme=dracula)
+![GitHub Streaks](https://streak-stats.demolab.com/?user=murillohq&theme=dracula)
